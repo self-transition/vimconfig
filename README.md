@@ -1,4 +1,4 @@
-# vimconfi
+# vimconfig
 自用vim配置与配色,注意vim版本需大于7.3,且须有python2.7环境
 
 - 下载
