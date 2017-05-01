@@ -10,9 +10,9 @@ cp ./vimconfig/vimrc ~/.vimrc
 
 - 添加配色
 
-mkdir -p ~/.vim/colors && cp ./vimconfig/molokai.vim "$_"
+mkdir -p ~/.vim/colors && cp ./vimconfig/molokai.vim
 
 - 重启vim
 
 - vim 学习笔记
-[**《vimtutor》notes.md**](https://github.com/rxy8023/vimconfig/blob/master/README.md)
+[**《vimtutor》notes.md**](https://github.com/rxy8023/vimconfig/blob/master/《vimtutor》notes.md)
