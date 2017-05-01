@@ -15,4 +15,4 @@ mkdir -p ~/.vim/colors && cp ./vimconfig/molokai.vim "$_"
 - 重启vim
 
 - vim 学习笔记
-**《vimtutor》notes.md**
+[**《vimtutor》notes.md**](https://github.com/rxy8023/vimconfig/blob/master/README.md)
