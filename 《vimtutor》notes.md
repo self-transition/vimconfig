@@ -1,4 +1,4 @@
-﻿# 《vimtutor》笔记
+﻿# 《vimtutor》note
 
 标签（空格分隔）： Vim
 
